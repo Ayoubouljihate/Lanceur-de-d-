@@ -7,6 +7,6 @@ while True:
         print('Salut')
         break
     elif i==1:
-        print(random.randint(1,21))
+        print(random.randint(1,6))
     else:
         print("Je ne comprend pas")
